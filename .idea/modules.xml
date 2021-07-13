@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ridesharing-uber-lyft-app.iml" filepath="$PROJECT_DIR$/.idea/modules/ridesharing-uber-lyft-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ridesharing-uber-lyft-app.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ridesharing-uber-lyft-app.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulator/ridesharing-uber-lyft-app.simulator.iml" filepath="$PROJECT_DIR$/.idea/modules/simulator/ridesharing-uber-lyft-app.simulator.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,157 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mindorks.ridesharing"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:7:5-79
+12-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+13-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:10:5-76
+13-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:10:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+14-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+15
+16    <uses-feature
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+17        android:glEsVersion="0x00020000"
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+18        android:required="true" />
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+19
+20    <application
+20-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:9:5-32:19
+21        android:name="com.xzibit.ridesharing.RideSharingApp"
+21-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:10:9-61
+22        android:allowBackup="true"
+22-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:11:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/ic_launcher"
+25-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:12:9-43
+26        android:label="@string/app_name"
+26-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:13:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:14:9-54
+28        android:supportsRtl="true"
+28-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:15:9-35
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:16:9-40
+31        <meta-data
+31-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:18:9-20:55
+32            android:name="com.google.android.geo.API_KEY"
+32-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:19:13-58
+33            android:value="@string/google_maps_key" />
+33-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:20:13-52
+34
+35        <activity
+35-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:22:9-31:20
+36            android:name="com.xzibit.ridesharing.ui.maps.MapsActivity"
+36-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:23:13-71
+37            android:label="@string/app_name"
+37-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:24:13-45
+38            android:theme="@style/MapsTheme" >
+38-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:25:13-45
+39            <intent-filter>
+39-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:26:13-30:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:27:17-69
+40-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:27:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:29:17-77
+42-->D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:29:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:14:9-20:20
+46            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+46-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:15:13-91
+47            android:exported="false"
+47-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:16:13-37
+48            android:label="@string/places_autocomplete_label"
+48-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:17:13-62
+49            android:theme="@style/PlacesAutocompleteOverlay"
+49-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:18:13-61
+50            android:windowSoftInputMode="adjustResize" >
+50-->[com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:19:13-55
+51        </activity> <!-- Needs to be explicitly declared on P+ -->
+52        <uses-library
+52-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+53            android:name="org.apache.http.legacy"
+53-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+54            android:required="false" />
+54-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+55
+56        <activity
+56-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+57            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+57-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+58            android:exported="false"
+58-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+59            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+59-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+60
+61        <meta-data
+61-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+62            android:name="com.google.android.gms.version"
+62-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+63            android:value="@integer/google_play_services_version" />
+63-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+64
+65        <service
+65-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
+66            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+66-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
+67            android:exported="false" >
+67-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
+68            <meta-data
+68-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
+69                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+69-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
+70                android:value="cct" />
+70-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
+71        </service>
+72        <service
+72-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
+73            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+73-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
+74            android:exported="false"
+74-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
+75            android:permission="android.permission.BIND_JOB_SERVICE" >
+75-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
+76        </service>
+77
+78        <receiver
+78-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
+79            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+79-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
+80            android:exported="false" />
+80-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
+81
+82        <provider
+82-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+83            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+83-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+84            android:authorities="com.mindorks.ridesharing.lifecycle-process"
+84-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+85            android:exported="false"
+85-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+86            android:multiprocess="true" />
+86-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+87    </application>
+88
+89</manifest>

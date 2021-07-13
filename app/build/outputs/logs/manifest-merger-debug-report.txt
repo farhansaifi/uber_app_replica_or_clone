@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [:simulator] D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\simulator\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\bd192a2c68f5624737262d91d2f648ac\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\60cd0a407f4688b400d7924d0f98b802\jetified-core-ktx-1.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d20cb1ac963846d17f67b5a9538b8613\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\327087db48b2d69d8aa487c4d8ad3b63\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e2beaefd0ea20a0730bd0861b87fa31e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\8b2dba56511f85fb139995bf7375f76d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7103fb3d9a8beea5c6a9affa3596ad6d\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\47a0a27038d772e3928325b391a1e4a3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ec10a857b093e92bf001b0a78c97d0de\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\078692e65df4d7001c5a4d3acfaf5f21\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\1885fd3d4db443bbc0a2135e92910bfc\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\db1dfb563beeda86c46a4d760914fa24\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\cce95b129d48cb61625dfa6e6b1d1f17\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\101249957c8e1b54e7a643e834379933\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f5c7ea6ee6c3d9fc34bd37273ccd2ff7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\06b3b9d3bec50669b3ffaf9be183c946\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\30c8f1e4fdfdc83188b3c08ab600721a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\024e50bba61c97978c0fa0a6e7911540\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\15c16297c519a5894d7590b376e32374\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\19a6dde207e2ba3072c7a5c59fd565cf\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\4dde9766764bd9b59a4ead5e46da0e16\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\8f9607317fc60a8c3f0df16d930fad40\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\30c36021cecb0094349f0b30b0b9fed0\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\6aeff4c299d9d0f6b06aea0ac0fd9140\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7e5b3c16691968bd85b79eb7274f073e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f6f0fa70b5f8c1428e2d059d9edc0d31\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f296c5433a7f17b9652d94b2d70925eb\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ce72d421d4bc148212a4b2818b420499\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\105e7b1c41c40dbcf5ae4a3fe021908e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\4150bb08bcd40a6675d8559194570744\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c1ce8dd1c0c198bf85473cbf82d9f0c3\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e2ec1c5f6193da71426acca821c2d104\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f65e5187b9ab00e033e69e942db247e3\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e6921a2cb2679d176d40e3177daac079\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\418d13ecebb3c40a7ddb979df52b514c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\40cadfd816c32cc487b70a83dbb6a03d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c9ac2a92ed356efce6b7d6c3e02ba389\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\5364e2cc2701b060d774a68dc3c341e0\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\843590a40df8c66bfcb83e2d2b130d7e\jetified-transport-api-2.1.0\AndroidManifest.xml:15:1-22:12
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d20cb1ac963846d17f67b5a9538b8613\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d20cb1ac963846d17f67b5a9538b8613\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7103fb3d9a8beea5c6a9affa3596ad6d\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7103fb3d9a8beea5c6a9affa3596ad6d\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\47a0a27038d772e3928325b391a1e4a3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\47a0a27038d772e3928325b391a1e4a3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ec10a857b093e92bf001b0a78c97d0de\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ec10a857b093e92bf001b0a78c97d0de\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\078692e65df4d7001c5a4d3acfaf5f21\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\078692e65df4d7001c5a4d3acfaf5f21\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f6f0fa70b5f8c1428e2d059d9edc0d31\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f6f0fa70b5f8c1428e2d059d9edc0d31\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\5364e2cc2701b060d774a68dc3c341e0\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\5364e2cc2701b060d774a68dc3c341e0\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:10:9-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:18:9-20:55
+	android:value
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.xzibit.ridesharing.ui.maps.MapsActivity
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:22:9-31:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:24:13-45
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:23:13-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+MERGED from [:simulator] D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\simulator\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:simulator] D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\simulator\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\bd192a2c68f5624737262d91d2f648ac\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\bd192a2c68f5624737262d91d2f648ac\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\60cd0a407f4688b400d7924d0f98b802\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\60cd0a407f4688b400d7924d0f98b802\jetified-core-ktx-1.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d20cb1ac963846d17f67b5a9538b8613\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d20cb1ac963846d17f67b5a9538b8613\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\327087db48b2d69d8aa487c4d8ad3b63\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\327087db48b2d69d8aa487c4d8ad3b63\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e2beaefd0ea20a0730bd0861b87fa31e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e2beaefd0ea20a0730bd0861b87fa31e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\8b2dba56511f85fb139995bf7375f76d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\8b2dba56511f85fb139995bf7375f76d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7103fb3d9a8beea5c6a9affa3596ad6d\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7103fb3d9a8beea5c6a9affa3596ad6d\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\47a0a27038d772e3928325b391a1e4a3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\47a0a27038d772e3928325b391a1e4a3\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ec10a857b093e92bf001b0a78c97d0de\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ec10a857b093e92bf001b0a78c97d0de\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\078692e65df4d7001c5a4d3acfaf5f21\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\078692e65df4d7001c5a4d3acfaf5f21\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\1885fd3d4db443bbc0a2135e92910bfc\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\1885fd3d4db443bbc0a2135e92910bfc\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\db1dfb563beeda86c46a4d760914fa24\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\db1dfb563beeda86c46a4d760914fa24\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\cce95b129d48cb61625dfa6e6b1d1f17\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\cce95b129d48cb61625dfa6e6b1d1f17\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\101249957c8e1b54e7a643e834379933\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\101249957c8e1b54e7a643e834379933\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f5c7ea6ee6c3d9fc34bd37273ccd2ff7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f5c7ea6ee6c3d9fc34bd37273ccd2ff7\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\06b3b9d3bec50669b3ffaf9be183c946\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\06b3b9d3bec50669b3ffaf9be183c946\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\30c8f1e4fdfdc83188b3c08ab600721a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\30c8f1e4fdfdc83188b3c08ab600721a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\024e50bba61c97978c0fa0a6e7911540\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\024e50bba61c97978c0fa0a6e7911540\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\15c16297c519a5894d7590b376e32374\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\15c16297c519a5894d7590b376e32374\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\19a6dde207e2ba3072c7a5c59fd565cf\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\19a6dde207e2ba3072c7a5c59fd565cf\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\4dde9766764bd9b59a4ead5e46da0e16\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\4dde9766764bd9b59a4ead5e46da0e16\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\8f9607317fc60a8c3f0df16d930fad40\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\8f9607317fc60a8c3f0df16d930fad40\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\30c36021cecb0094349f0b30b0b9fed0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\30c36021cecb0094349f0b30b0b9fed0\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\6aeff4c299d9d0f6b06aea0ac0fd9140\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\6aeff4c299d9d0f6b06aea0ac0fd9140\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c3a877e75b918415cab05028f4e6ccd8\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7e5b3c16691968bd85b79eb7274f073e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\7e5b3c16691968bd85b79eb7274f073e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f6f0fa70b5f8c1428e2d059d9edc0d31\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f6f0fa70b5f8c1428e2d059d9edc0d31\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f296c5433a7f17b9652d94b2d70925eb\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f296c5433a7f17b9652d94b2d70925eb\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ce72d421d4bc148212a4b2818b420499\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ce72d421d4bc148212a4b2818b420499\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\105e7b1c41c40dbcf5ae4a3fe021908e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\105e7b1c41c40dbcf5ae4a3fe021908e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\4150bb08bcd40a6675d8559194570744\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\4150bb08bcd40a6675d8559194570744\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c1ce8dd1c0c198bf85473cbf82d9f0c3\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c1ce8dd1c0c198bf85473cbf82d9f0c3\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e2ec1c5f6193da71426acca821c2d104\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e2ec1c5f6193da71426acca821c2d104\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f65e5187b9ab00e033e69e942db247e3\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f65e5187b9ab00e033e69e942db247e3\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e6921a2cb2679d176d40e3177daac079\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\e6921a2cb2679d176d40e3177daac079\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\418d13ecebb3c40a7ddb979df52b514c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\418d13ecebb3c40a7ddb979df52b514c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\40cadfd816c32cc487b70a83dbb6a03d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\40cadfd816c32cc487b70a83dbb6a03d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c9ac2a92ed356efce6b7d6c3e02ba389\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\c9ac2a92ed356efce6b7d6c3e02ba389\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\5364e2cc2701b060d774a68dc3c341e0\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\5364e2cc2701b060d774a68dc3c341e0\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\843590a40df8c66bfcb83e2d2b130d7e\jetified-transport-api-2.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\843590a40df8c66bfcb83e2d2b130d7e\jetified-transport-api-2.1.0\AndroidManifest.xml:18:5-20:41
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Uber_Ridesharing_App_Clone\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\d1b6b832254b239fb9720993736fd6c8\jetified-places-2.2.0\AndroidManifest.xml:15:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\b43af7ac67a7cfad02bf31e1cdab2540\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\ea88a6b471e9423e89fbdd8c4cae1b19\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\95675f9220304c445f411eb249fdb07b\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\235a70c8e92445b80421e1c01b13623b\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\f805a013ec704eaa6b8f8d5925339f11\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\fraha\.gradle\caches\transforms-2\files-2.1\93b5a6c5403014066078d3aaca2ae83a\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
